@@ -12,10 +12,18 @@ $menuItems = [
           'url' => 'product-form.php'
      ],
      [
-          'title' => 'แบบประเมิน',
-          'url' => '
-          assessment-form.php'
+          'title' => 'ประชาสัมพันธ์',
+          'url' => 'news-form.php'
      ],
+     [
+          'title' => 'แบบประเมิน',
+          'url' => 'assessment-form.php'
+     ],
+     // สร้าง menu ระบบจัดการ สำหรับคนที่มี role เป็น admin
+     [
+          'title' => 'ระบบจัดการ',
+          'url' => 'admin-form.php'
+     ]
 
 
 ];
