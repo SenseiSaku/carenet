@@ -21,7 +21,7 @@ $menuItems = [
 ];
 ?>
 
-<nav class="col-md-3 col-lg-2 d-md-block bg-white border sidebar">
+<nav class="col-md-3 col-lg-2 d-md-block bg-white border-end sidebar">
      <div class="sidebar-sticky">
           <ul class="nav flex-column">
                <?php foreach ($menuItems as $item): ?>

@@ -24,7 +24,7 @@
 
                <!-- Content area -->
                <div class="col-md-9 ml-sm-auto col-lg-10 px-md-4 mt-2 d-flex justify-content-center ">
-                    <main role="main" class="w-50">
+                    <main role="main" style="width: 70%;">
                          <div>
                               <?php include('contents/home.php'); ?>
                          </div>
