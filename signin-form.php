@@ -26,7 +26,7 @@
                <div class="col-md-9 ml-sm-auto col-lg-10 px-md-4 mt-2 d-flex justify-content-center ">
                     <main role="main" class="main-content-width">
                          <div>
-                              <?php include('contents/home.php'); ?>
+                              <?php include('contents/signin.php'); ?>
                          </div>
                     </main>
                </div>

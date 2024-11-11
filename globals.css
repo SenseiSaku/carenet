@@ -7,3 +7,25 @@ html {
   font-size: 1rem;
   scroll-behavior: smooth;
 }
+:root {
+  --maincolor: #f43f5e;
+}
+.btn-rose {
+  background-color: var(--maincolor);
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+}
+.btn-rose:hover {
+  background-color: #db3b55;
+}
+/* about all card */
+.card-width {
+  width: 45rem;
+}
+.main-content-width {
+  width: 80%;
+}
+.card {
+  border: none;
+}
